@@ -1,2 +1,2 @@
 # DuiLite
-Another wheel, base on DuiLib
+Another wheel, base on DuiLib.
